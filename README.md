@@ -1,2 +1,2 @@
-# odoo_jassim
+# odoo_dev
 odoo git learning
